@@ -38,7 +38,7 @@ The user can drop URLs and ask questions to receive relevant insights from that 
 ## Set-Up
 1. Clone the repository
 ``` bash
-  git clone https://github.com/itsmoksh/research-assistant.git
+  git clone https://github.com/anasmateen78/research-assistant.git
 ```
 2. Run the following command to install all dependencies.
 ``` bash
@@ -68,6 +68,4 @@ Here's the next question, asked by the bot, about the model capabilities and the
 **Try it out**:
 **[Open Streamlit App](https://real-estate-rag-agent-nishu-om.streamlit.app/)**
 
-**NISHU KUMAR**
 
-[LinkedIn](https://www.linkedin.com/in/nishu73/) • [GitHub](https://github.com/NISHU8875) • [Portfolio](https://codebasics.io/portfolio/NISHU-KUMAR)
