@@ -42,7 +42,7 @@ The user can drop URLs and ask questions to receive relevant insights from that 
 ```
 2. Run the following command to install all dependencies.
 ``` bash
-  pip install -r requirements.txt
+ python3 -m pip install -r requirements.txt(for MacOS only) , pip install -r requirements.txt 
 ```
 3. Create a new .env file with your Groq credentials as follows:
 ```text
