@@ -65,7 +65,5 @@ Database in the form of embeddings. Then, it's ready to give the answers.
 Here's the next question, asked by the bot, about the model capabilities and the purpose of launching the model.
 
 ---
-**Try it out**:
-**[Open Streamlit App](https://real-estate-rag-agent-nishu-om.streamlit.app/)**
 
 
