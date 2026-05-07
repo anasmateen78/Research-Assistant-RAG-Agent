@@ -1,4 +1,4 @@
-# Real-Estate-RAG-Agent
+Research-Assistant-RAG-Agent
 
 An assistant where you can extract relevant information just by dropping a URL into it. 
 The user can drop URLs and ask questions to receive relevant insights from that doc. 
